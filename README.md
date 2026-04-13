@@ -60,7 +60,19 @@ To preserve confidentiality while demonstrating the full analytical workflow, a 
 
 ## Disclaimer
 
-This repository is based on a real-world fintech use case. All company identifiers, sensitive details, and original data have been removed or anonymized.
+This repository is based on a real-world fintech use case.
+
+The original dataset is confidential and cannot be shared.
+
+A synthetic dataset was created to replicate the structure and behavior of the original business problem, allowing the full analytical approach to be demonstrated without exposing sensitive information.
+
+All company identifiers, metrics, and sensitive details have been removed or anonymized.
+
+## Client Feedback
+
+"The analysis allowed us to identify which components of the credit offering require greater attention. This enables us to increase credit conversion and, consequently, the growth and profitability of the business."
+
+— Álvaro Hernández, Atrato
 
 ## Author
 
