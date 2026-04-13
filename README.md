@@ -1,5 +1,6 @@
 # Fintech Conversion Optimization & Predictive Analytics
-Predicting Loan Acceptance & Optimizing Conversion Strategy
+Predicting Loan Acceptance & Optimizing Conversion Strategy.
+
 This project demonstrates how fintech companies can identify who is most likely to convert and optimize their credit offering using predictive analytics.
 
 ## Executive Summary
